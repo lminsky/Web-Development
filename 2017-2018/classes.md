@@ -12,3 +12,14 @@
 * Quick Quiz
 * Finish Timeline
 
+### [2018-02-05](Class%20Examples/2018-02-05/)
+* Morse Code vs ASCII Activity
+* Discussion of Binary, Bytes, and Computer Timeline
+* HW: Read "[Person in Lotus Position](https://99percentinvisible.org/episode/person-lotus-position/)" (or listen to the audio version) about Emoji and Unicode. Come up with your own idea for a new emojii.
+
+### [2018-02-06](Class%20Examples/2018-02-06/)
+* Return Binary quiz and review answers
+* Discussion of Emoji article.
+* Explore Emojipedia and talk about chaining symbols
+* Unicode Consortium and creating standards
+* HW: [Read about Computer Networks](http://www.explainthatstuff.com/howcomputernetworkswork.html)
