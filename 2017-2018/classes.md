@@ -23,3 +23,9 @@
 * Explore Emojipedia and talk about chaining symbols
 * Unicode Consortium and creating standards
 * HW: [Read about Computer Networks](http://www.explainthatstuff.com/howcomputernetworkswork.html)
+
+### [2018-02-08](Class%20Examples/2018-02-08/)
+* Discussion of network reading
+* Packer's network overview
+* DNS introduction
+* HW: Pick a website and do some investigations using viewdns.info. Look at its IP History and do a Reverse IP Lookup to see if any other sites share its IP Address, use the IP Location Finder to see where the server is hosted, look up the Whois information to see who registered the domain, and look up its DNS Records to see if you can find clues about other ways that the domain may be used.
