@@ -29,3 +29,17 @@
 * Packer's network overview
 * DNS introduction
 * HW: Pick a website and do some investigations using viewdns.info. Look at its IP History and do a Reverse IP Lookup to see if any other sites share its IP Address, use the IP Location Finder to see where the server is hosted, look up the Whois information to see who registered the domain, and look up its DNS Records to see if you can find clues about other ways that the domain may be used.
+
+### [2018-02-09](Class%20Examples/2018-02-09/)
+* Discussion of DNS Investigation HW
+* TLDs, domains, and subdomains
+* How computers connect to each other over the internet
+* Traceroute, Meet Me Rooms / Carrier Hotels, and underwater cables
+* HW: Read about the UNIX command Line
+
+
+### [2018-02-13](Class%20Examples/2018-02-13/)
+* Review the UNIX command line reading.
+* Quiz
+
+
