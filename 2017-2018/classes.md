@@ -42,4 +42,7 @@
 * Review the UNIX command line reading.
 * Quiz
 
-
+### [2018-02-14](Class%20Examples/2018-02-15/)
+* Review file permissions
+* chmod, ping, traceroute, curl
+* HW: Read about HTML structure
