@@ -46,3 +46,8 @@
 * Review file permissions
 * chmod, ping, traceroute, curl
 * HW: Read about HTML structure
+
+### [2018-02-15](Class%20Examples/2018-02-15/)
+* The first long band! We're making web pages
+* Tags: html, body, h1, p
+* HW: Read about HTML text
