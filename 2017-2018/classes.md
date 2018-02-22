@@ -51,3 +51,13 @@
 * The first long band! We're making web pages
 * Tags: html, body, h1, p
 * HW: Read about HTML text
+
+### [2018-02-21](Class%20Examples/2018-02-21/)
+* Check in about HTML Text reading / quiz
+* Creating an HTML document in Sublime
+* Lists: ordered and unordered
+* HW: Create a recipe webpage that uses a header, a paragraph, a list of ingredients, and a list of steps.
+
+### [2018-02-22](Class%20Examples/2018-02-22/)
+* Share recipe web pages
+* Links: absolute vs relative, to other parts of the same page, to email addresses, that open in new windows.
