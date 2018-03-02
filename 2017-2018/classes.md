@@ -61,3 +61,27 @@
 ### [2018-02-22](Class%20Examples/2018-02-22/)
 * Share recipe web pages
 * Links: absolute vs relative, to other parts of the same page, to email addresses, that open in new windows.
+* HW: Make a second recipe webpage. Also make a table of contents page that links to each recipe (make sure the recipes link back to the table of contents)
+
+### [2018-02-26](Class%20Examples/2018-02-26/)
+* Images!
+* Absolute vs Relative
+* Copyright
+* Width/height
+* Align - old, probably don't use it anymore.
+* HW: Get started with GitHub
+
+### [2018-02-27](Class%20Examples/2018-02-27/)
+* Finish setting up GitHub
+* HW: Read about tables. Make a page that uses tables and upload it to your docs folder in GitHub.
+
+### [2018-03-01](Class%20Examples/2018-03-01/)
+* Review Table pages.
+* Get the last people finished on GitHub
+* Skip forms
+* ID and Class attributes
+* Blocks vs inline
+* div and span
+* iframes
+* Embedding video/audio
+* HW: Read introduction to CSS
