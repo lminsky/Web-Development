@@ -1,0 +1,26 @@
+ul {
+  list-style-type: square;
+}
+
+th, td {
+    border-bottom: 1px solid #ddd;
+}
+
+tr:hover {
+  background-color: pink;
+}
+
+#box1 {
+  background-color: lightgreen;
+  width: 100px;
+  height: 80px;
+}
+
+
+
+
+
+
+
+
+

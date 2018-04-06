@@ -1,0 +1,32 @@
+.containers {
+  width: 300px;
+  height: 200px;
+  opacity: .5;
+  margin: 20px auto 20px auto;
+}
+
+.thirds {
+  width: 33%;
+  display: inline-block;
+  overflow: auto;
+}
+
+.left {
+  background-color: red;
+}
+
+.center {
+  background-color: green;
+}
+
+.right {
+  background-color: blue;
+}
+
+#z {
+  background-color: grey;
+  position: absolute;
+  left: 50px;
+  top: 50px;
+  margin: 0px;
+}

@@ -85,3 +85,43 @@
 * iframes
 * Embedding video/audio
 * HW: Read introduction to CSS
+
+### [2018-03-05](Class%20Examples/2018-03-05/)
+* Review CSS selectors
+* Colors!
+* HW: Add color to your recipes
+
+### [2018-03-06](Class%20Examples/2018-03-06/)
+* Review colorful recipes (HSL, alpha is 0-1)
+* Text
+⋅⋅* Serif, San Serif, Monospace
+⋅⋅* Weight, Style, Stretch
+⋅⋅* font-family
+⋅⋅* font-size
+
+### [2018-03-08](Class%20Examples/2018-03-08/)
+* Do Now: Create an new folder and name it CSS Lists. Inside create an HTML file that has both a list and a table. Create a CSS file (and link it to the HTML file). Use W3schools to find the CSS to modify lists and make two changes to the list and two changes to the table.
+* Boxes
+⋅⋅* width, height, min-width, max-width, min-height, max-height
+* HW: Read CSS Boxes
+
+### [2018-04-02](Class%20Examples/2018-04-02/)
+* Review HTML and CSS
+* Intro scripting
+
+### [2018-04-03](Class%20Examples/2018-04-03/)
+* Review Objects (properties, events, methods)
+* Inspect 'document' and 'window'
+* Try 'document.write()', 'window.alert()', and 'window.close()'
+* Review HTML and CSS
+* Intro scripting
+
+### [2018-04-04](Class%20Examples/2018-04-04/)
+* Popups
+* Variables
+* Making changes to elements on the page
+
+### [2018-04-06](Class%20Examples/2018-04-06/)
+* Functions
+* Buttons
+* Event listeners
