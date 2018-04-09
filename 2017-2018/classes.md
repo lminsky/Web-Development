@@ -125,3 +125,9 @@
 * Functions
 * Buttons
 * Event listeners
+* HW: make a change to the style of the page
+
+### [2018-04-09](Class%20Examples/2018-04-09/)
+* Scripted styling
+* Input fields
+* HW: Modify the site from class today to have two input fields and add the numbers entered together when you press the button. You can display the sum either in the console or on the page itself.
