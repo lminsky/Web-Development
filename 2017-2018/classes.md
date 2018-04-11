@@ -131,3 +131,8 @@
 * Scripted styling
 * Input fields
 * HW: Modify the site from class today to have two input fields and add the numbers entered together when you press the button. You can display the sum either in the console or on the page itself.
+
+### [2018-04-11](Class%20Examples/2018-04-11/)
+* Review add
+* Modify it to subtract, multiply, and divide
+* HW: Read about built in objects. There will be a quiz on Strings, Math objects, and Date objects.
