@@ -136,3 +136,8 @@
 * Review add
 * Modify it to subtract, multiply, and divide
 * HW: Read about built in objects. There will be a quiz on Strings, Math objects, and Date objects.
+
+### [2018-04-12](Class%20Examples/2018-04-12/)
+* Review objects
+* Quiz
+* HW: Use the date object to create a site that will display the number of days until graduation. You can build it off of the example from class today.
