@@ -60,6 +60,7 @@ function getMessages(roomName, callbackData) {
   roomRef.on('child_added', function(snapshot) {
     callbackData(snapshot.val());
   });
+  roomRed.on('child_changed', location.reload());
 }
 
 function sendMessage(text) {
