@@ -12,8 +12,9 @@ var provider = new firebase.auth.GoogleAuthProvider();
 var database = firebase.database();
 var auth = firebase.auth();
 var roomRef;
+var regexExclusion = /[^a-z0-9_]/g;
 
-function login(callbackAuth = function(user) {console.log(user)}, callbackData = function(data) {console.log(data)}, roomName = location.hash.toLowerCase().replace("#","_")) {
+function login(callbackAuth = function(user) {console.log(user)}, callbackData = function(data) {console.log(data)}, roomName = location.hash.toLowerCase().replace("#","_").replace(regexExclusion,"")) {
   // Initialize Firebase
   if(roomName == "") {
     roomName = "_";
