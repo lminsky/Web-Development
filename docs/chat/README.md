@@ -2,6 +2,8 @@
 
 You're each going to make your own chat site that will communicate back to a central database that I have set up. That way each person is able to chat with everyone else, but from their own website.
 
+You can see the live version of this example [here](http://lminsky.github.io/Web-Development/chat/).
+
 Here are the steps to get started:
 1. Download the [chat.zip file here](https://github.com/lminsky/Web-Development/raw/master/docs/chat/chat.zip).
 1. Move chat.zip from your downloads folder into your GitHub repository folder.
