@@ -19,6 +19,7 @@ To run it off a local server:
 1. Now type `python -m SimpleHTTPServer`
 1. You should see a message saying _Serving HTTP on 0.0.0.0 port 8000 ..._
 1. You can see the site by opening your browser and going to: `localhost:8000`
+  1. The first time you load the page you'll need to allow popups. Check in the URL bar to see if there's a notification about them being blocked.
 
 You can also push it to GitHub and run it off of GitHub Pages, but I'll need to enable your individual site in the database, so just give me a heads up before you try that.
 
